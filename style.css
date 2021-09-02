@@ -134,7 +134,7 @@ h5 {
 
 .aside-espaciado {
   margin-top: 8rem;
-  margin-left: 3rem;
+  margin-left: 2rem;
 }
 
 .aside h4 {
@@ -144,4 +144,40 @@ h5 {
 
 .aside p {
   color: #fff;
+}
+
+.logo {
+  font-size: 2rem;
+}
+ 
+.ubicacion {
+  margin-top: 3rem;
+}
+
+.linkedin {
+  margin-bottom: 5rem;
+}
+
+.habilidades {
+  display: flex;
+}
+
+.habilidades div {
+  margin-left: 2rem;
+}
+
+.hab-1 {
+  margin-bottom: 3rem;
+}
+
+.soft {
+  margin-left: 2rem;
+}
+
+.soft p{
+  margin: 1rem 0;
+}
+
+.certificacion {
+  margin-left: 2rem;
 }
