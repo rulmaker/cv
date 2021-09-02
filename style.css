@@ -140,6 +140,7 @@ h5 {
 .aside h4 {
   color: #fff;
   letter-spacing: .5rem;
+  font-size: 1.2rem;
 }
 
 .aside p {
@@ -172,6 +173,7 @@ h5 {
 
 .soft {
   margin-left: 2rem;
+  margin-bottom: 5rem;
 }
 
 .soft p{
@@ -180,4 +182,20 @@ h5 {
 
 .certificacion {
   margin-left: 2rem;
+}
+
+.cer-t {
+  margin-left: 2.5rem;
+}
+
+.parrafo {
+  margin-left: 2.5rem;
+}
+
+.idiomas {
+  margin-left: 2rem;
+}
+
+.idiomas p {
+  margin-top: 2rem;
 }
